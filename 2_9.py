@@ -1,4 +1,5 @@
 import turtle
+from playsound import *
 
 win = turtle.Screen()
 win.title("Bản đồ Việt Nam")
