@@ -1,0 +1,4 @@
+Download, Install python
+pip install --upgrade pip setuptools wheel
+Downloan playsound:
+	pip install playsound
